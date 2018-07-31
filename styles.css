@@ -1,0 +1,53 @@
+.animal-card {
+    border: 1px solid #000;
+    width: 300px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 1px 2px 2px 1px grey;
+    background-image: url("http://www.hbtechsource.com/wp-content/uploads/2018/03/chinese.jpg");
+  }
+  .animal-name {
+      margin-top: 5px;
+      text-align: center;
+      color: #fff;
+      text-transform: uppercase;
+      font-size: 35px;
+      border-radius: 20px;
+      background-color: #fa983a;
+    }
+    .animal-img {
+        margin-bottom: 5px;
+        width: 300px;
+        display: block;
+        padding-bottom: 10px;
+        border-radius: 15px 50px;
+
+      }
+      .animal-info{
+        border: dashed 3px #e55039;
+        background-color: #fa983a;
+        height: 380px;
+      }
+      .animal-funfact{
+        font: italic 20px serif;
+        color: #fff
+
+
+      }
+      .fact-list{
+        list-style-type: none;
+        padding-left: 0;
+        list-style-position: inside;
+        text-align: left;
+        font-size: 15px
+        }
+      .fact-label{
+        font-weight: bold;
+        font-family: serif;
+        font-size: 16px;
+        color: #b71540;
+      }
+      .animal-description{
+        font: 16px serif;
+        text-align: left;
+      }
